@@ -20,8 +20,7 @@ Users Should be able to :
 ![Mobile-view](Screenshots/Mobile01.png)
 ![Mobile-view](Screenshots/Mobile02.png)
 ### Links 
-Live Site Url : [Live site of the challenge hosted here]
-(https://affectionate-fermat-6ccb2a.netlify.app/)
+Live Site Url : [Live site of the challenge hosted here](https://affectionate-fermat-6ccb2a.netlify.app/)
 
 ## My Process 
 Hello 🙋🏼 this is third forntend mentor challenge and this challenge was simple but I did get confused on creating stats part, well as such i am a programmmer i figured out the issue and I Did it.
